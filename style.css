@@ -1,0 +1,118 @@
+h1 {
+	font-family:'Open Sans', Arial,  sans-serif;
+	font-weight: 800;
+	font-size:42px;
+	margin-top:0px;
+	margin-bottom: -10px;
+}
+h2 {
+	font-family:'Open Sans', Arial, sans-serif;
+	font-weight: 300;
+	color: #aeaeac;
+	text-transform: uppercase;
+	font-size: 10px;
+}
+
+p {
+	font-family: Georgia, serif;
+	font-size: 18px;
+	color: #5a5a5a;
+	line-height: 26px;
+}
+
+#body {
+	width: 900px;
+	margin:auto;
+}
+
+#logo {
+	float:left;
+	margin-top:35px;
+	margin-bottom:35px;
+}
+
+#social-media {
+	float:right;
+	margin-top:45px;
+}
+
+#social-media img{
+	padding-right: 2px;
+	float:left;
+}
+
+.divider {
+	background-image: url('images/diagonal-bg.jpg');
+	background-repeat: repeat ;
+	height:15px;
+	width:900px;
+	float:left;
+	
+}
+
+#article {
+	margin-top:30px;
+	margin-bottom:30px;
+	float:left;
+	
+}
+
+#recipe {
+	background-image: url('images/lined-paper.jpg');
+	background-repeat: no-repeat;
+	height:305px;
+	width:100%;
+	float:left;
+	color: #595959;
+	font-family: 'Just Another Hand';
+	font-size: 25px;
+	line-height: 31px;
+	list-style-image: url('images/list-marker.jpg');
+}
+
+#bio {
+	width:655px;
+	float:left;
+	margin-top:20px;
+	
+}
+#bio img{
+	float:left;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+#bio-text {
+	float:left;
+	width: 560px;
+	
+}
+
+#bio p {
+	font-family: Georgia, sans-serif;
+	font-size:18px;
+	
+}
+
+#share-recipe {
+	width: 185px;
+	background-color: #bc7058;
+	float:right;
+	font-family : 'Open Sans', sans-serif;
+	font-weight: 300;
+	text-align:center;
+	color:#FFFFFF;
+	padding-top:17px;
+	padding-bottom:17px;
+	margin-top:40px;
+}
+
+#footer {
+	font-family : Georgia, serif;
+	color: #999999;
+	text-align: center;
+	font-size: 14px;
+	line-height:20px;
+	margin-top: 20px;
+}
+
