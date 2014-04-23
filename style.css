@@ -18,6 +18,7 @@ p {
 	font-size: 18px;
 	color: #5a5a5a;
 	line-height: 26px;
+	text-indent: 30px;
 }
 
 #body {
@@ -66,8 +67,20 @@ p {
 	color: #595959;
 	font-family: 'Just Another Hand';
 	font-size: 25px;
-	line-height: 31px;
+	line-height: 27px;
+	
+}
+
+#recipe li {
 	list-style-image: url('images/list-marker.jpg');
+	cursor: pointer;
+	padding:2px;
+}
+
+#recipe span{
+	text-decoration:none;
+	cursor:pointer;
+	padding: 2px;
 }
 
 #bio {
@@ -106,6 +119,7 @@ p {
 	padding-bottom:17px;
 	margin-top:40px;
 }
+
 
 #footer {
 	font-family : Georgia, serif;
